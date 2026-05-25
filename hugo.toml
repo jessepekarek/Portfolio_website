@@ -1,4 +1,4 @@
-baseURL = "https://yourname.netlify.app/"
+baseURL = "baseURL = "https://portfolio-jessepekarek.netlify.app/"
 title = "Jesse Pekarek | Data Analytics"
 theme = "PaperMod"
 locale = "en-us"
