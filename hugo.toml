@@ -1,0 +1,55 @@
+baseURL = "https://yourname.netlify.app/"
+title = "Jesse Pekarek | Data Analytics"
+theme = "PaperMod"
+locale = "en-us"
+paginate = 5
+
+[params]
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  [params.profileMode]
+  enabled = true
+  title = "Hi, I'm Jesse Pekarek 👋"
+  subtitle = "Data Analyst bridging 20+ years of real estate, education technology, and nonprofit leadership into a new chapter in Data Analytics. Seeking remote roles in PropTech and EdTech."
+  imageUrl = "jesse_photo.jpg"
+  imageWidth = 150
+  imageHeight = 150
+  imageTitle = "Jesse Pekarek"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/jessepekarek/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/jessepekarek"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:jesse@pekarek-realestate.com"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 3
+
+[[menu.main]]
+  name = "Experience"
+  url = "/experience/"
+  weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,26 @@
+#theme-toggle {
+    margin-left: auto;
+    order: 99;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+#menu-toggle {
+    order: 98;
+}
+.project-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 32px;
+}
+
+.project-card img {
+    width: 50%;
+    display: block;
+    margin: 0 auto 16px auto;
+    border-radius: 4px;
+}
