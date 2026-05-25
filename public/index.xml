@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jesse Pekarek | Data Analytics</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yourname.netlify.app/</link>
     <description>Recent content on Jesse Pekarek | Data Analytics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yourname.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://yourname.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://yourname.netlify.app/about/</guid>
       <description>&lt;h2 id=&#34;hi-im-jesse-&#34;&gt;Hi, I&amp;rsquo;m Jesse 👋&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m a data analyst candidate with 20+ years of experience across real estate,
 education technology, and nonprofit leadership — and I&amp;rsquo;m excited to bring all
@@ -26,9 +26,9 @@ clear visual recommendations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://yourname.netlify.app/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://yourname.netlify.app/experience/</guid>
       <description>&lt;p&gt;If you are interested you can also visit my LinkedIn profile or view my resume below.&lt;/p&gt;
 &lt;p&gt;&lt;button onclick=&#34;window.open(&#39;https://linkedin.com/in/jessepekarek&#39;,&#39;_blank&#39;)&#34; 
 style=&#34;background:#333; color:white; border:none; padding:8px 16px; border-radius:4px; cursor:pointer; margin-right:8px;&#34;&gt;
@@ -44,7 +44,7 @@ View Resume
     style=&#34;position:absolute; top:10px; right:10px; background:#333; color:white; border:none; padding:8px 16px; border-radius:4px; cursor:pointer; z-index:100000;&#34;&gt;
     Close
     &lt;/button&gt;
-    &lt;iframe src=&#34;http://localhost:1313/resume.pdf#zoom=75&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;border:none; display:block;&#34;&gt;&lt;/iframe&gt;
+    &lt;iframe src=&#34;https://yourname.netlify.app/resume.pdf#zoom=75&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;border:none; display:block;&#34;&gt;&lt;/iframe&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;hr&gt;
@@ -53,12 +53,12 @@ View Resume
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
+      <link>https://yourname.netlify.app/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/</guid>
+      <guid>https://yourname.netlify.app/portfolio/</guid>
       <description>&lt;div class=&#34;project-card&#34;&gt;
 &lt;h3 id=&#34;sql-high-demand-skills-for-data-analysts&#34;&gt;SQL: High Demand Skills for Data Analysts&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;SQL Project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/sql_screenshot.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;SQL Project&#34; loading=&#34;lazy&#34; src=&#34;https://yourname.netlify.app/sql_screenshot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; SQL, PostgreSQL, VS Code, Git &amp;amp; GitHub, DBeaver&lt;/p&gt;
 &lt;p&gt;Analyzed 700,000+ data job postings to identify top in-demand skills and salary trends using advanced SQL queries. Applied complex joins, CTEs, window functions, aggregations, and data validation to extract insights.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/jessepekarek/SQL&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
@@ -66,7 +66,7 @@ View Resume
 &lt;hr&gt;
 &lt;div class=&#34;project-card&#34;&gt;
 &lt;h3 id=&#34;python-data-analyst-skills--salary-analysis&#34;&gt;Python: Data Analyst Skills &amp;amp; Salary Analysis&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Python Project&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/python_screenshot.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Python Project&#34; loading=&#34;lazy&#34; src=&#34;https://yourname.netlify.app/python_screenshot.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Python (pandas, matplotlib, seaborn), Git &amp;amp; GitHub, Jupyter, VS Code&lt;/p&gt;
 &lt;p&gt;Analyzed real-world data job postings to identify top in-demand skills and salary trends for data analyst roles. Applied data cleaning, transformation, and visualization end-to-end.&lt;/p&gt;</description>
     </item>
