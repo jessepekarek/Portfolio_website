@@ -6,7 +6,7 @@ draft: false
 
 ## Hi, I'm Jesse 👋
 
-I'm a data analyst candidate with 20+ years of experience across real estate, 
+I'm a data analyst with 20+ years of experience across real estate, 
 education technology, and nonprofit leadership — and I'm excited to bring all 
 of it into my next chapter in Data Analytics.
 
