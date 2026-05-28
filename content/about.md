@@ -18,9 +18,22 @@ writing SQL queries to build custom data exports, building Excel valuation tools
 used across 100+ client transactions, or translating complex market data into 
 clear visual recommendations.
 
-I'm currently transitioning back to Minnesota to be near family, and actively 
-seeking **entry-level remote positions in Data Analytics** — particularly in 
-PropTech, EdTech, or mission-driven organizations.
+For more than a decade I built every listing 
+presentation around the Cromford Report — the 
+most sophisticated residential market analytics 
+tool in Arizona. It was extremely rare to lose 
+a listing because of it. That approach translated 
+directly into results — consistently ranked in 
+the top 1% of Arizona real estate agents 
+statewide by gross commission for five 
+consecutive years, and in the top 10% for 
+over a decade.
+
+I'm currently relocating to Minnesota and 
+pursuing roles in PropTech and real estate 
+analytics — where 20+ years of domain expertise 
+meets a hands-on technical skill set in Python, 
+SQL, Tableau, and Excel.
 
 ---
 
